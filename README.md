@@ -3,7 +3,7 @@
  </h1>
     
 # 💫 About Me:
-A frant-END Developer <br><br>
+A Front-end Developer <br><br>
 
 ## 🌐 Socials:
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) ![Github](https://img.shields.io/badge/Github-000000.svg?logo=github&logoColor=white)
