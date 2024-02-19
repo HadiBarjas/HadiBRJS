@@ -10,7 +10,7 @@ A frant-END Developer <br><br>
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) ![Github](https://img.shields.io/badge/Github-000000.svg?logo=github&logoColor=white)
 
 # 💻 Languages and Tools:
- ![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=unity&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-171bac?style=for-the-badge&logo=css3&logoColor=white)
 # 📕 Things I Will Learn In The Future:
 ![VUE.JS](https://img.shields.io/badge/vue.js-white.svg?style=for-the-badge&logo=vue.js&logoColor=green) ![NodeJS](https://img.shields.io/badge/node.js-8FC708?style=for-the-badge&logo=node.js&logoColor=white) ![React]style=for-the-badge&logo=NPM)
 # 📊 Stats:
