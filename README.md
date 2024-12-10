@@ -1,7 +1,7 @@
 <img src="" width="1000" height="300"></img>
 
 <h1 align="center">
-   <a herf="https://github.com/HadiBRJS"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Hadi
+   <a herf="https://github.com/HadiBarjas"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Hadi
  </h1>
     
 # 👨‍💻 About Me:
@@ -17,8 +17,8 @@ A Passionate Frontend Developer and Enthusiast of Emerging Technologies<br><br>
 ![Learn Skills](https://skillicons.dev/icons?i=redis,vuejs,tailwind,redux,jquery,electron,alpinejs,expressjs&theme=dark)
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> Stats:
-![](https://github-readme-stats.vercel.app/api?username=HadiBRJS&theme=dark&include_all_commits=true&count_private=true&show_icons=true&icon_color=434d58)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HadiBRJS&theme=dark&include_all_commits=true&count_private=true&layout=compact) <br/>
+![](https://github-readme-stats.vercel.app/api?username=HadiBarjas&theme=dark&include_all_commits=true&count_private=true&show_icons=true&icon_color=434d58)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HadiBarjas&theme=dark&include_all_commits=true&count_private=true&layout=compact) <br/>
 
 
 ---
