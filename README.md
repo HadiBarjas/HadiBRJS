@@ -1,21 +1,26 @@
+<img src="" width="1000" height="300"></img>
+
 <h1 align="center">
-   <a herf="https://github.com/MaMad4Ever">I'm Hadi
+   <a herf="https://github.com/HadiBRJS"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Hadi
  </h1>
     
-# 💫 About Me:
-A Front-end Developer <br><br>
+# 👨‍💻 About Me:
+A Passionate Frontend Developer and Enthusiast of Emerging Technologies<br><br>
 
-## 🌐 Socials:
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) ![Github](https://img.shields.io/badge/Github-000000.svg?logo=github&logoColor=white)
+# 🌐 Socials:
+![My Socials](https://skillicons.dev/icons?i=discord,github,instagram,gmail,&theme=dark)
 
-# 💻 Languages and Tools:
- ![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-171bac?style=for-the-badge&logo=css3&logoColor=white)
-# 📕 Things I Will Learn In The Future:
-![VUE.JS](https://img.shields.io/badge/vue.js-black.svg?style=for-the-badge&logo=vue.js&logoColor=green) ![React](https://img.shields.io/badge/react.js-080808.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- <br/>
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px"> Languages and Tools:
+
+![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,npm,html,css,git,mysql,wordpress,bootstrap,react&theme=dark)
+# <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="60" />Things I Will Learn In The Future:
+![Learn Skills](https://skillicons.dev/icons?i=redis,vuejs,tailwind,redux,jquery,electron,alpinejs,expressjs&theme=dark)
+
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> Stats:
+![](https://github-readme-stats.vercel.app/api?username=HadiBRJS&theme=dark&include_all_commits=true&count_private=true&show_icons=true&icon_color=434d58)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HadiBRJS&theme=dark&include_all_commits=true&count_private=true&layout=compact) <br/>
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MaMad4Ever&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 <!-- Ends -->
