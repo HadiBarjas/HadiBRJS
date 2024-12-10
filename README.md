@@ -1,4 +1,3 @@
-<img src="" width="1000" height="300"></img>
 
 <h1 align="center">
    <a herf="https://github.com/HadiBarjas"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Hadi
