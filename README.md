@@ -9,8 +9,8 @@ I specialize in building responsive, accessible, and fast web applications with 
 <p align="left">
   <a href="https://t.me/HadiBRJS"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://instagram.com/HadiBRJS"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://discord.com/users/your-id"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="mailto:hadibarjas108@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://discord.com/users/hadibrjs"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 ---
