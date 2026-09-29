@@ -28,5 +28,4 @@ I specialize in building responsive, accessible, and fast web applications with 
 ---
 
 ### 🚀 Featured Project
-- **[TokenLab](https://github.com/HadiBarjas/TokenLab)** — A client-side, zero-dependency JWT decoder with real-time JSON inspection, syntax highlighting, and an optical-balanced theme architecture.
-  - 👉 **[Live Demo](https://hadibarjas.github.io/TokenLab)** | **[Source Code](https://github.com/HadiBarjas/TokenLab)**
+- **[TokenLab](https://github.com/HadiBarjas/TokenLab)** — A lightweight, client-side JWT inspection tool built with Vanilla JavaScript and modern CSS architecture, featuring real-time decoding and dynamic theme switching.
